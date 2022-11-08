@@ -1,1 +1,1 @@
-sorting_algorithm
+sorting_algorithms
